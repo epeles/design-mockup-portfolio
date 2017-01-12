@@ -1,0 +1,31 @@
+body {
+	font-family: 'Rubik', sans-serif;
+}
+hr { 
+    display: block;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: all;
+    border-width: 3px;
+} 
+.header_text {
+	font-family: 'Raleway', sans-serif;
+	font-size: 300%;
+}
+.text-muted {
+	font-size: 120%;
+	margin-top: 2em;
+}
+.bio-logo {
+	margin-top: 20px;
+	width: 200px;
+	height: 200px;
+}
+.featwork {
+	font-family: Verdana;
+	margin-top: 1.5em;
+	margin-left: 1em;
+	color: #a9a9a9;
+}
