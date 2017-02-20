@@ -37,3 +37,16 @@ hr {
 	margin-left: 1em;
 	color: #a9a9a9;
 }
+
+article:hover {
+	background-color: #ADFF2F;
+}
+
+a:hover {
+	font-size: 150%;
+}
+
+article.img-responsive {
+	width: 350px;
+	height: 300px;
+}
