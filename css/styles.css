@@ -42,11 +42,13 @@ article:hover {
 	background-color: #ADFF2F;
 }
 
-a:hover {
-	font-size: 150%;
-}
-
-article.img-responsive {
+article {
+	border-radius: 5px;
+	padding: 10px;
+	border: 1px solid black;
 	width: 350px;
 	height: 300px;
-}
+}	
+
+
+
